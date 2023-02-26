@@ -6,6 +6,7 @@ IntelliJ IDEA 2022.1.2 (Ultimate Edition)
 org.springframework.boot' version '2.5.0'
 gradle-7.6.1
 java 17
+MySQL 8.0.25
 
 
 注意点
