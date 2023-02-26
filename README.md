@@ -17,3 +17,6 @@ Spring Boot 3.0 最低只支持java17,（版本管理器默认也换成了 Gradl
 无效的源发行版 17
 gradle编译使用了java8，修改为java17就好![image](https://user-images.githubusercontent.com/126364300/221388399-07f91e2d-80e2-4c5c-8ebe-7118c3e38f6b.png)
 
+
+查询MySQL版本号 
+SELECT @@version;
